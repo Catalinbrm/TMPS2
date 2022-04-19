@@ -1,0 +1,31 @@
+F:\3.2\TMPS\Adapter\Adapter\obj\Debug\net6.0\Adapter.csproj.AssemblyReference.cache
+F:\3.2\TMPS\Adapter\Adapter\obj\Debug\net6.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+F:\3.2\TMPS\Adapter\Adapter\obj\Debug\net6.0\Adapter.AssemblyInfoInputs.cache
+F:\3.2\TMPS\Adapter\Adapter\obj\Debug\net6.0\Adapter.AssemblyInfo.cs
+F:\3.2\TMPS\Adapter\Adapter\obj\Debug\net6.0\Adapter.csproj.CoreCompileInputs.cache
+F:\3.2\TMPS\Adapter\Adapter\bin\Debug\net6.0\Adapter.exe
+F:\3.2\TMPS\Adapter\Adapter\bin\Debug\net6.0\Adapter.deps.json
+F:\3.2\TMPS\Adapter\Adapter\bin\Debug\net6.0\Adapter.runtimeconfig.json
+F:\3.2\TMPS\Adapter\Adapter\bin\Debug\net6.0\Adapter.dll
+F:\3.2\TMPS\Adapter\Adapter\bin\Debug\net6.0\ref\Adapter.dll
+F:\3.2\TMPS\Adapter\Adapter\bin\Debug\net6.0\Adapter.pdb
+F:\3.2\TMPS\Adapter\Adapter\obj\Debug\net6.0\Adapter.dll
+F:\3.2\TMPS\Adapter\Adapter\obj\Debug\net6.0\ref\Adapter.dll
+F:\3.2\TMPS\Adapter\Adapter\obj\Debug\net6.0\Adapter.pdb
+F:\3.2\TMPS\Adapter\Adapter\obj\Debug\net6.0\Adapter.genruntimeconfig.cache
+D:\UTM\Anul 3\Sem2\TMPS\Adapter\Adapter\obj\Debug\net6.0\Adapter.csproj.AssemblyReference.cache
+D:\UTM\Anul 3\Sem2\TMPS\Adapter\Adapter\obj\Debug\net6.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTM\Anul 3\Sem2\TMPS\Adapter\Adapter\obj\Debug\net6.0\Adapter.AssemblyInfoInputs.cache
+D:\UTM\Anul 3\Sem2\TMPS\Adapter\Adapter\obj\Debug\net6.0\Adapter.AssemblyInfo.cs
+D:\UTM\Anul 3\Sem2\TMPS\Adapter\Adapter\obj\Debug\net6.0\Adapter.csproj.CoreCompileInputs.cache
+D:\UTM\Anul 3\Sem2\TMPS\Adapter\Adapter\obj\Debug\net6.0\Adapter.dll
+D:\UTM\Anul 3\Sem2\TMPS\Adapter\Adapter\obj\Debug\net6.0\ref\Adapter.dll
+D:\UTM\Anul 3\Sem2\TMPS\Adapter\Adapter\obj\Debug\net6.0\Adapter.pdb
+C:\Users\La Flame\source\repos\Adapter\Adapter\obj\Debug\net6.0\Adapter.csproj.AssemblyReference.cache
+C:\Users\La Flame\source\repos\Adapter\Adapter\obj\Debug\net6.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\La Flame\source\repos\Adapter\Adapter\obj\Debug\net6.0\Adapter.AssemblyInfoInputs.cache
+C:\Users\La Flame\source\repos\Adapter\Adapter\obj\Debug\net6.0\Adapter.AssemblyInfo.cs
+C:\Users\La Flame\source\repos\Adapter\Adapter\obj\Debug\net6.0\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\La Flame\source\repos\Adapter\Adapter\obj\Debug\net6.0\Adapter.dll
+C:\Users\La Flame\source\repos\Adapter\Adapter\obj\Debug\net6.0\ref\Adapter.dll
+C:\Users\La Flame\source\repos\Adapter\Adapter\obj\Debug\net6.0\Adapter.pdb
