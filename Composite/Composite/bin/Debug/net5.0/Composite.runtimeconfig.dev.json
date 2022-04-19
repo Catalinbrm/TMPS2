@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Brentimus\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Brentimus\\.nuget\\packages",
+      "D:\\Programs\\VisualStudioPackets\\NuGetPackages"
+    ]
+  }
+}
